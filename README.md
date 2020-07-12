@@ -6,3 +6,6 @@ Langkah penggunaan :
 2. Jalankan aplikasi dengan perintah "streamlit run model.py" dengan anaconda comand prompt
 3. Pastikan di direktori yang benar sebelum proses penggunaan
 
+## Screenshot
+<img src="ss1.png">
+<img src="ss2.png">
